@@ -62,7 +62,7 @@ x
 9
 __block__
 i
-18
+27
 5
 7
 0
@@ -75,6 +75,15 @@ i
 5
 7
 2
+64
+47
+49
+1
+1
+15
+5
+7
+3
 64
 47
 49
@@ -94,7 +103,7 @@ I
 I
 -2
 p
-3
+4
 s
 E
 0
@@ -110,8 +119,14 @@ E
 
 13
 pages/contact
+s
+E
+0
+
+11
+pages/about
 p
-7
+9
 I
 -1
 I
@@ -126,6 +141,10 @@ I
 4
 I
 12
+I
+6
+I
+1b
 x
 77
 /Users/avendrow/Documents/Projects/rails_projects/sample_app/config/routes.rb
